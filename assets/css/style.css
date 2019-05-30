@@ -63,12 +63,6 @@ a:hover {
 a:last-child {
     border-right: 0;
 }
-  
-
-
-body {
-    
-}
 
 header {
 	background-color: #fff;
@@ -125,4 +119,32 @@ html, body {
 	height: -1em;
 }
 
+.tree, .tree-text {
+    float: left;
+    width: 289px;
+    margin: 0 30px -20px 0;
+}
+
+.tree2 {
+    width: 289px;
+}
+
+.eyes {
+    float:left;
+    width: 289px;
+    margin:30px 30px -20px 0;
+}
+
+.lights {
+    width: 289px;
+    margin: 30px 0 0 0;
+}
+
+.tree-text {
+    
+   
+    background-color: #4aaaa5;
+    color: #ffffff;
+    
+}
 
